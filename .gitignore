@@ -1,0 +1,35 @@
+# Dependency directories
+node_modules/
+npm-debug.log
+
+# macOS
+.DS_Store
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Docker
+.docker
+
+# Environment variables
+.env
+
+# Visual Studio Code
+.vscode
+
+# Jest coverage
+coverage
+
+# macOS Finder files
+*.DS_Store
+
+# Windows thumbnail files
+Thumbs.db

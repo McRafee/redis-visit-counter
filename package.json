@@ -1,0 +1,10 @@
+{
+	"name": "redis-visit-counter",
+	"version": "1.0.0",
+	"description": "This repository contains a simple Node.js application demonstrating a visit counter using Redis. The application is containerized using Docker and Docker Compose for easy setup and execution.",
+	"main": "app.js",
+	"dependencies": {
+		"express": "^4.17.1",
+		"redis": "^3.0.2"
+	}
+}
